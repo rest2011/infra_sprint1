@@ -1,0 +1,5 @@
+IP: 158.160.0.4;
+name_taski: https://rest2011.sytes.net;
+name_kittygram: https://restkit.sytes.net;
+login: yc-user;
+password: 1;
