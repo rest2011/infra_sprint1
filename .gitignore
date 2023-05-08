@@ -161,4 +161,4 @@ yarn-error.log*
 #static
 node_modules
 static_backend
-infra_sprint1/backend/kittygram_backend/proverka
+backend/proverka
