@@ -159,5 +159,6 @@ yarn-debug.log*
 yarn-error.log*
 
 #static
-frontend/node_modules directory
-backend/static
+node_modules/
+static_backend/
+build/
