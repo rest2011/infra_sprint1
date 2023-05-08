@@ -94,3 +94,7 @@ load_dotenv()
 SECRET_KEY = os.getenv('SECRET_KEY')
 ```
 
+## Автор проекта
+
+Хаматьяров Ринат
+github.com/rest2011
