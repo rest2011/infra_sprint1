@@ -7,9 +7,7 @@ Backend часть написана на Django, Frontend на React
 - Django rest_framework
 - Django rest_framework_simplejwt
 - React
-- Pillow
 - Git
-- Docker
 - NGINX
 - GUNICORN
 - SQLITE
