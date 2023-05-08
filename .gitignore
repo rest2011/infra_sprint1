@@ -159,6 +159,5 @@ yarn-debug.log*
 yarn-error.log*
 
 #static
-node_modules
-static_backend
-backend/proverka
+frontend/node_modules
+backend/static_backend
