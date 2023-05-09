@@ -38,6 +38,7 @@ server {
 
     location /media/ {
         alias /var/www/kittygram/media/;
+        client_max_body_size 20M;
     }
 
     location / {
